@@ -1,0 +1,12 @@
+* {
+    font-family: 'MuseoSansCyrl', sans-serif;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+.header {
+    min-height: 650px;
+    background: url('../img/bg1.png') center center / cover  no-repeat
+}
